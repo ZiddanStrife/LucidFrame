@@ -1,12 +1,12 @@
 # LucidFrame
 LucidFrame Is Framework for Make A Game in Browser,
 
-If you are very comfortable working and innovating in a web browser, this Framework is perfect for you, Overall Made in Native Javascript, and some Html or css standards.
-This Framework Does Not Use Canvas Today Or SVG As Basic Rendering of Various Objects that you create, But Objects will still look good.
-let's contribute to developing this framework.
+# If you are very comfortable working and innovating in a web browser, this Framework is perfect for you, Overall Made in Native Javascript, and some Html or css standards.
+# This Framework Does Not Use Canvas Today Or SVG As Basic Rendering of Various Objects that you create, But Objects will still look good.
+# let's contribute to developing this framework.
 
-Greetings, Ziddan Strife.
-Thanks.
+# Greetings, Ziddan Strife.
+# Thanks.
 
 
 
